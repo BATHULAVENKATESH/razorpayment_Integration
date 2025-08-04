@@ -30,9 +30,9 @@ RazorPayment/
 
 ## ⚙️ Prerequisites
 Before you begin, ensure you have the following installed:
-- [Java 17+](https://adoptopenjdk.net/) (if using Spring Boot)  
+- [Java 17+](https://adoptopenjdk.net/) (using Spring Boot)  
 - [Maven](https://maven.apache.org/) or Gradle (for Java backend)  
-- [Node.js](https://nodejs.org/) (if frontend uses React/JS)  
+- [Node.js](https://nodejs.org/) (frontend uses React/JS else go with themeleaf I have used thymeleaf)  
 - [Git](https://git-scm.com/)  
 - Razorpay account → [https://razorpay.com](https://razorpay.com)  
 
